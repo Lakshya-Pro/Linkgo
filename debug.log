@@ -1,0 +1,57 @@
+[0127/152459.582:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0127/201207.196:ERROR:process_info.cc(359)] UncheckedAllocate
+[0127/201210.585:ERROR:process_info.cc(359)] UncheckedAllocate
+[0127/201216.508:ERROR:process_info.cc(359)] UncheckedAllocate
+[0127/201631.797:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/154214.279:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/154219.340:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/154221.924:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/154233.760:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/154637.256:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/215902.666:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/215902.750:ERROR:process_info.cc(359)] UncheckedAllocate
+[0129/163402.813:ERROR:process_info.cc(359)] UncheckedAllocate
+[0129/163410.154:ERROR:process_info.cc(359)] UncheckedAllocate
+[0129/163420.333:ERROR:process_info.cc(359)] UncheckedAllocate
+[0129/212545.830:ERROR:process_info.cc(359)] UncheckedAllocate
+[0129/212636.997:ERROR:process_info.cc(359)] UncheckedAllocate
+[0130/113038.563:ERROR:process_info.cc(359)] UncheckedAllocate
+[0130/163453.379:ERROR:process_info.cc(359)] UncheckedAllocate
+[0130/163617.707:ERROR:process_info.cc(359)] UncheckedAllocate
+[0130/163620.842:ERROR:process_info.cc(359)] UncheckedAllocate
+[0130/163624.226:ERROR:process_info.cc(359)] UncheckedAllocate
+[0130/163636.019:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/194841.969:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/194845.024:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195047.243:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195103.365:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195103.365:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/223011.319:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/223223.769:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/094300.598:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/094303.769:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/094305.741:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/123900.540:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/123938.065:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/152658.684:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0201/152658.719:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/153658.719:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/153658.719:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/154158.729:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/155658.767:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/161158.772:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/162658.935:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/164158.935:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/165658.939:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/171158.984:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/172658.987:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/174159.010:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/175540.681:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/175540.781:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0201/175805.612:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/175847.942:ERROR:process_info.cc(359)] UncheckedAllocate
+[0203/181637.001:ERROR:process_info.cc(359)] UncheckedAllocate
+[0203/181640.865:ERROR:process_info.cc(359)] UncheckedAllocate
+[0204/181902.704:ERROR:process_info.cc(359)] UncheckedAllocate
+[0204/181932.016:ERROR:process_info.cc(359)] UncheckedAllocate
+[0204/181932.016:ERROR:process_info.cc(359)] UncheckedAllocate
